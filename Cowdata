@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "Catttle_img_path": "Assets/Images/CowProfile.jpg",
+    "name": "Cattle 1",
+    "temp": "30 C",
+    "heartbeat": "65 BPM",
+    "so2": "98%",
+    "activity": "Feeding",
+    "status": "Healthy"
+    },
+  {
+  "id": 2,
+  "Catttle_img_path": "Assets/Images/CowProfile.jpg",
+  "name": "Cattle 2",
+  "temp": "40 C",
+  "heartbeat": "70 BPM",
+  "so2": "95%",
+  "activity": "Lazy",
+  "status": "Sick"
+  },
+  {
+    "id": 3,
+    "Catttle_img_path": "Assets/Images/CowProfile.jpg",
+    "name": "Cattle 1",
+    "temp": "30 C",
+    "heartbeat": "65 BPM",
+    "so2": "98%",
+    "activity": "Feeding",
+    "status": "Healthy"
+  },
+  {
+    "id": 4,
+    "Catttle_img_path": "Assets/Images/CowProfile.jpg",
+    "name": "Cattle 2",
+    "temp": "40 C",
+    "heartbeat": "70 BPM",
+    "so2": "95%",
+    "activity": "Lazy",
+    "status": "Sick"
+  },
+  {
+    "id": 5,
+    "Catttle_img_path": "Assets/Images/CowProfile.jpg",
+    "name": "Cattle 1",
+    "temp": "30 C",
+    "heartbeat": "65 BPM",
+    "so2": "98%",
+    "activity": "Feeding",
+    "status": "Healthy"
+  },
+  {
+    "id": 6,
+    "Catttle_img_path": "Assets/Images/CowProfile.jpg",
+    "name": "Cattle 2",
+    "temp": "40 C",
+    "heartbeat": "70 BPM",
+    "so2": "95%",
+    "activity": "Lazy",
+    "status": "Sick"
+  },
+  {
+    "id": 7,
+    "Catttle_img_path": "Assets/Images/CowProfile.jpg",
+    "name": "Cattle 1",
+    "temp": "30 C",
+    "heartbeat": "65 BPM",
+    "so2": "98%",
+    "activity": "Feeding",
+    "status": "Healthy"
+  },
+  {
+    "id": 8,
+    "Catttle_img_path": "Assets/Images/CowProfile.jpg",
+    "name": "Cattle 2",
+    "temp": "40 C",
+    "heartbeat": "70 BPM",
+    "so2": "95%",
+    "activity": "Lazy",
+    "status": "Sick"
+  },
+  {
+    "id": 9,
+    "Catttle_img_path": "Assets/Images/CowProfile.jpg",
+    "name": "Cattle 1",
+    "temp": "30 C",
+    "heartbeat": "65 BPM",
+    "so2": "98%",
+    "activity": "Feeding",
+    "status": "Healthy"
+  },
+  {
+    "id": 10,
+    "Catttle_img_path": "Assets/Images/CowProfile.jpg",
+    "name": "Cattle 2",
+    "temp": "40 C",
+    "heartbeat": "70 BPM",
+    "so2": "95%",
+    "activity": "Lazy",
+    "status": "Sick"
+  }
+]
